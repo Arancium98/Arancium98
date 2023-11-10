@@ -5,7 +5,7 @@
 
 
 - [Vidrios Metalicos Asistente Investigación](https://github.com/Arancium98/Vidrios_Metalicos_Fall)
-- 
+  
 - [Clasificacion falla mediante red neuronal](https://github.com/Arancium98/ucihydraulic/tree/main)
 
 - [Titanic (Logistic Regression, SVM, Random Forest)](https://www.kaggle.com/code/arancium/titanic-regression-svm-random)
